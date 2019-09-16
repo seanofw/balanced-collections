@@ -1,7 +1,7 @@
 # Balanced Collections
 
 _Copyright (C) 2019 by Sean Werkema. All rights reserved._
-_Licensed under the terms of the [MIT open-source license](license.txt)._
+_Licensed under the terms of the [MIT open-source license](License.txt)._
 
 -----------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ performed efficiently.
 
 ### License
 
-This code is licensed under the terms of the [MIT open-source license](license.txt).
+This code is licensed under the terms of the [MIT open-source license](License.txt).
 
 ### What's included?
 
